@@ -7,4 +7,4 @@ Engenheiro de Software no [@itau](https://www.itau.com.br/)
 [![Gmail Badge](https://img.shields.io/badge/maycondbraga.s@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maycondbraga.s@gmail.com)](mailto:maycondbraga.s@gmail.com)
 
 [![Top langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maycondbraga&layout=compact&langs_count=8)](https://github.com/maycondbraga)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maycondbraga&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/maycondbraga)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maycondbraga&show_icons=true)](https://github.com/maycondbraga)
